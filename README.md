@@ -4,3 +4,9 @@
 
 hmmmmmm
 zaujímavé :D :)
+
+---
+
+```
+console.log("prdlajs")
+```
