@@ -7,6 +7,8 @@ zaujímavé :D :) :DDDDD
 
 ---
 
+...tak uvidíme ako to **dopadne**
+
 ```
 console.log("prdlajs")
 ```
