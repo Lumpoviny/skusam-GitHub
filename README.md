@@ -5,5 +5,5 @@
 ...tak uvidíme ako to **dopadne**
 
 ```
-console.log("prdlajs")
+console.log("prdko")
 ```
